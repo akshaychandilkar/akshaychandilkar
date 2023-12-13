@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/akshaychandilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaychandilkar" height="30" width="40" /></a>
 <a href="https://instagram.com/akshay_chandilkar4518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_chandilkar4518" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@akshaychandilkar1050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akshaychandilkar1050" height="30" width="40" /></a>
-</p>
+</p> <a href="https://Twitter.com/in/@akshayC4518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@akshayC4518" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
