@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL, Excel, Power Bi & Statistics**
 
-- 💬 Ask me about **Data Analysis, SQL, Power BI, Excel, Python Programming, Pandas, NumPy, Seaborn, Matplotlib**
+- 💬 Ask me about **Data Analysis, SQL, Power BI, Excel, Python, Pandas, NumPy, Seaborn, Matplotlib**
 
 - 📫 How to reach me **akshaychandilkar@gmail.com**
 
