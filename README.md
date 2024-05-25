@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **SQL, Excel, Power Bi & Statistics**
+- 🌱 I’m currently learning **SQL, Advance Excel, Power Bi & Statistics**
 
-- 💬 Ask me about **Data Analysis, SQL, Power BI, Excel, Python, Pandas, NumPy, Seaborn, Matplotlib**
+- 💬 Ask me about **Data Analysis, Excel, MySQL, Python, Pandas, NumPy, Seaborn, Matplotlib**
 
 - 📫 How to reach me **akshaychandilkar@gmail.com**
 
