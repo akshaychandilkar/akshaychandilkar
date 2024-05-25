@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Pandurang Chandilkar</h1>
 <h3 align="center">A passionate Data Analyst/Analytics from India 🆕 Fresher</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=TMjdp5yb&id=FCA91C8ED23750B757B6F1BE6FEB5A71C0177741&thid=OIP.TMjdp5ybQQTCSwFwvTpDWgHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f002%2f668%2f647%2flarge_2x%2fdata-analyst-design-vector.jpg&exph=1920&expw=1920&q=animated+Data+analyst+Coding+Images&simid=608028839997155691&FORM=IRPRST&ck=29702691AB8E23DDEBC87373BB3D3D1D&selectedIndex=7&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/002/668/647/large_2x/data-analyst-design-vector.jpg">
 
 <p align="left"> <a href="https://twitter.com/akshayc4518" target="blank"><img src="https://img.shields.io/twitter/follow/akshayc4518?logo=twitter&style=for-the-badge" alt="akshayc4518" /></a> </p>
 
