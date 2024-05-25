@@ -1,29 +1,26 @@
 <h1 align="center">Hi 👋, I'm Akshay Pandurang Chandilkar</h1>
-<h3 align="center">"A passionate Data Analyst from India 🆕 Fresher,"</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<h3 align="center">A passionate Data Analyst/Analytics from India 🆕 Fresher</h3>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=TMjdp5yb&id=FCA91C8ED23750B757B6F1BE6FEB5A71C0177741&thid=OIP.TMjdp5ybQQTCSwFwvTpDWgHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f002%2f668%2f647%2flarge_2x%2fdata-analyst-design-vector.jpg&exph=1920&expw=1920&q=animated+Data+analyst+Coding+Images&simid=608028839997155691&FORM=IRPRST&ck=29702691AB8E23DDEBC87373BB3D3D1D&selectedIndex=7&itb=0&ajaxhist=0&ajaxserp=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychandilkar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychandilkar" /> </p>
+<p align="left"> <a href="https://twitter.com/akshayc4518" target="blank"><img src="https://img.shields.io/twitter/follow/akshayc4518?logo=twitter&style=for-the-badge" alt="akshayc4518" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Python & Machine Learning**
+- 🌱 I’m currently learning **SQL, Excel, Power Bi & Statistics**
 
-- 💬 Ask me about **Python development, Machine Learning, Data Science, Anything related to programming or technology**
+- 💬 Ask me about **Data Analysis, SQL, Power BI, Excel, Python Programming, Pandas, NumPy, Seaborn, Matplotlib**
 
 - 📫 How to reach me **akshaychandilkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/akshayc4518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshayc4518" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshaychandilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaychandilkar" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay_____4518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_____4518" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@akshaychandilkar1050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akshaychandilkar1050" height="30" width="40" /></a>
-
+<a href="https://instagram.com/akshay___4518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay___4518" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaychandilkar&show_icons=true&locale=en&layout=compact" alt="akshaychandilkar" /></p>
 
