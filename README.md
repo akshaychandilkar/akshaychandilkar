@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/akshayc4518" target="blank"><img src="https://img.shields.io/twitter/follow/akshayc4518?logo=twitter&style=for-the-badge" alt="akshayc4518" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+-🔭 I’m currently working on Track Back
 
-- 🌱 I’m currently learning **SQL, Advance Excel, Power Bi & Statistics**
+💼 Open to opportunities in Data Analysis, Financial Analysis, Business Analysis & SQL Development
 
-- 💬 Ask me about **Data Analysis, Excel, MySQL, Python, Pandas, NumPy, Seaborn, Matplotlib**
+💬 Ask me about Data Analysis, Excel, SQL, Power BI, Python
 
 - 📫 How to reach me **akshaychandilkar@gmail.com**
 
